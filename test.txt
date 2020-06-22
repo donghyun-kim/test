@@ -1,2 +1,2 @@
-﻿제거 하면 작살나요
+﻿delete is die
 don't delete 
